@@ -17,7 +17,7 @@ It supports **addition**, **subtraction**, **multiplication**, and **division** 
 ## 📂 Files
 - `calculator.c` – Main source code
 - `README.md` – Project documentation
-- `index.html` *(optional)* – Showcase for GitHub Pages (static web)
+- `simplified_calculator` *An simplified code of calculator
 
 ---
 
